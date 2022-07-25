@@ -21,3 +21,5 @@ How To?
 1.Download all in the files to the same directory
 
 2.Run main.py
+
+Edit: matrix.py is the source code of distancedata
